@@ -1,4 +1,4 @@
-package com.mycompany.papeleriaa;  // Cambiado
+package com.mycompany.libreria;
 
 import java.util.ArrayList;
 import java.util.Comparator;
