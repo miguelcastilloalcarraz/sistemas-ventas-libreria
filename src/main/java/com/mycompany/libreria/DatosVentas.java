@@ -1,4 +1,4 @@
-package com.mycompany.papeleriaa;
+package com.mycompany.libreria;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
