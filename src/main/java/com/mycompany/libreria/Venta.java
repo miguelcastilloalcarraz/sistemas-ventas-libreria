@@ -1,4 +1,4 @@
-package com.mycompany.papeleriaa;
+package com.mycompany.libreria;
 
 public class Venta {
     private int idVenta;
