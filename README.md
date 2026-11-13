@@ -69,4 +69,4 @@ sistemas-ventas-libreria/
 
 ## Autor
 
-* **Miguel** — [@miguelcastilloalcarraz](https://github.com/miguelcastilloalcarraz)
+* **Miguel Castillo** — [@miguelcastilloalcarraz](https://github.com/miguelcastilloalcarraz)
